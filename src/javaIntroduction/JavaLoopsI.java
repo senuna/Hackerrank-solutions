@@ -1,4 +1,4 @@
-/**
+package javaIntroduction; /**
  * Created by senuna on 21.01.17.
  */
 
